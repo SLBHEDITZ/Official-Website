@@ -61,3 +61,7 @@
     font-weight: 100;
     line-height: 25px;
 }
+
+.links{
+    cursor: pointer;
+}
